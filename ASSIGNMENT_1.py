@@ -69,7 +69,7 @@ print(Student_markslist)
 #(b) Remove Black and Pink from the list and replace it with Purple.
 
 
-Color_list = ['Red' 'Green', 'White', 'Black', 'Pink', 'Yellow']
+Color_list = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 #Print (a) part
 print('(a)')
 print(Color_list)
