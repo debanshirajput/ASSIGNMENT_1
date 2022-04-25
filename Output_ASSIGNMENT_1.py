@@ -26,7 +26,7 @@ Enter the marks of the Student 5: 91
  Sorted Student List (increasing order): 
 [54, 69, 76, 89, 91]
 (a)
-['RedGreen', 'White', 'Black', 'Pink', 'Yellow']
+['Red','Green', 'White', 'Black', 'Pink', 'Yellow']
  List after removing Black Color :  ['RedGreen', 'White', 'Pink', 'Yellow']
 (b)
 ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
