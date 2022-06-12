@@ -67,10 +67,10 @@ while count < 11: #condition to iterate the loop 10 times.
 #   dividing the candy evenly among 6 people, and the amount left over is 3 pieces. Finally, you ask about dividing the candy evenly among 7 people, and the amount
 #   left over is 2 pieces. By looking at the bowl, you can tell that there are less than 200 pieces. Write a program to determine how many pieces are in the bowl.
 print("\nAns 4)")
-for i in range(200):
-    if i % 5 == 2:
-         if i % 6 == 3:
-             if i % 7 == 2:
+for i in range(200): #as candies are less than 200
+    if i % 5 == 2: #condition 1
+         if i % 6 == 3: #condition 2
+             if i % 7 == 2: #condition 3
                  print("\nThere are ", i, ' candies are in the bowl!')
         
    
