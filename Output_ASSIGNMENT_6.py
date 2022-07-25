@@ -47,4 +47,4 @@ Enter number of elements : 6
 No triplets exist
 None
 Enter the sequence of parantheses : (){}[]
-(){}[] - is balanced
+(){}[] - is balance
